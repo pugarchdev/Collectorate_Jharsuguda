@@ -36,7 +36,7 @@ const Footer = () => {
           <h4>Contact Us</h4>
           <p>District Administration Jharsuguda</p>
           <p>Collectorate, Jharsuguda – 768204</p>
-          <p>Phone: 06645-270070, 9356150561</p>
+          <p>Phone: 06645-270070</p>
           <p>Email: dm-jharsuguda@nic.in</p>
         </div>
       </div>
