@@ -17,8 +17,6 @@ const Navbar = () => {
   const navLinks = [
     { name: 'Home', path: '/' },
     { name: 'About', path: '/about' },
-    { name: 'Administration', path: '/administration' },
-    { name: 'Departments', path: '/departments' },
     { name: 'WhatsApp Service', path: '/whatsapp-service' },
     { name: 'Contact', path: '/contact' },
   ];
