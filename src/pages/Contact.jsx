@@ -22,7 +22,7 @@ const Contact = () => {
               <div className="contact-details">
                 <div className="detail-item">
                   <strong>Official Numbers:</strong>
-                  <span>06645-270070 / 9356150561</span>
+                  <span>06645-270070 </span>
                 </div>
                 <div className="detail-item">
                   <strong>Official NIC Email:</strong>
