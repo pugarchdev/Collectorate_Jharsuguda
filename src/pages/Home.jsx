@@ -54,7 +54,7 @@ const Home = () => {
             <i className="fas fa-envelope"></i>
             <h3>Official Email</h3>
             <p>dm-jharsuguda@nic.in</p>
-            <p>agadge797@gmail.com</p>
+           
           </div>
         </div>
       </section>
